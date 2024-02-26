@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\SortAnArray\InsertingАnЕlementIntoASortedArray\bin\Debug\net8.0\InsertingАnЕlementIntoASortedArray.exe
+C:\Users\lenovo\Desktop\Siana\SortAnArray\InsertingАnЕlementIntoASortedArray\bin\Debug\net8.0\InsertingАnЕlementIntoASortedArray.deps.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\InsertingАnЕlementIntoASortedArray\bin\Debug\net8.0\InsertingАnЕlementIntoASortedArray.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\InsertingАnЕlementIntoASortedArray\bin\Debug\net8.0\InsertingАnЕlementIntoASortedArray.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\InsertingАnЕlementIntoASortedArray\bin\Debug\net8.0\InsertingАnЕlementIntoASortedArray.pdb
+C:\Users\lenovo\Desktop\Siana\SortAnArray\InsertingАnЕlementIntoASortedArray\obj\Debug\net8.0\InsertingАnЕlementIntoASortedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\SortAnArray\InsertingАnЕlementIntoASortedArray\obj\Debug\net8.0\InsertingАnЕlementIntoASortedArray.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\InsertingАnЕlementIntoASortedArray\obj\Debug\net8.0\InsertingАnЕlementIntoASortedArray.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\SortAnArray\InsertingАnЕlementIntoASortedArray\obj\Debug\net8.0\InsertingАnЕlementIntoASortedArray.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\InsertingАnЕlementIntoASortedArray\obj\Debug\net8.0\InsertingАnЕlementIntoASortedArray.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\InsertingАnЕlementIntoASortedArray\obj\Debug\net8.0\refint\InsertingАnЕlementIntoASortedArray.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\InsertingАnЕlementIntoASortedArray\obj\Debug\net8.0\InsertingАnЕlementIntoASortedArray.pdb
+C:\Users\lenovo\Desktop\Siana\SortAnArray\InsertingАnЕlementIntoASortedArray\obj\Debug\net8.0\InsertingАnЕlementIntoASortedArray.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\InsertingАnЕlementIntoASortedArray\obj\Debug\net8.0\ref\InsertingАnЕlementIntoASortedArray.dll

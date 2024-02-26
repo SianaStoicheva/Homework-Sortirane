@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04987A43-C06A-47D8-A9D9-C96758EDFD78}|Merge\\Merge.csproj|c:\\users\\lenovo\\desktop\\siana\\sortanarray\\merge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04987A43-C06A-47D8-A9D9-C96758EDFD78}|Merge\\Merge.csproj|solutionrelative:merge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A78FE7-973F-44D7-80BE-7F09AC4450DA}|Merge\u041EfArray\\Merge\u041EfArray.csproj|c:\\users\\lenovo\\desktop\\siana\\sortanarray\\merge\u043Efarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A78FE7-973F-44D7-80BE-7F09AC4450DA}|Merge\u041EfArray\\Merge\u041EfArray.csproj|solutionrelative:merge\u043Efarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAF5081-4940-4427-8260-48161E04BDAC}|SearchingElement\\SearchingElement.csproj|c:\\users\\lenovo\\desktop\\siana\\sortanarray\\searchingelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAF5081-4940-4427-8260-48161E04BDAC}|SearchingElement\\SearchingElement.csproj|solutionrelative:searchingelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5BEE03-5F65-4A31-8208-28FF89AD023E}|Inserting\u0410n\u0415lementIntoASortedArray\\Inserting\u0410n\u0415lementIntoASortedArray.csproj|c:\\users\\lenovo\\desktop\\siana\\sortanarray\\inserting\u0430n\u0435lementintoasortedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5BEE03-5F65-4A31-8208-28FF89AD023E}|Inserting\u0410n\u0415lementIntoASortedArray\\Inserting\u0410n\u0415lementIntoASortedArray.csproj|solutionrelative:inserting\u0430n\u0435lementintoasortedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA49A9C3-D21D-408C-BD25-C9B29F6569A8}|ComparingCharacterArrays\\ComparingCharacterArrays.csproj|c:\\users\\lenovo\\desktop\\siana\\sortanarray\\comparingcharacterarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA49A9C3-D21D-408C-BD25-C9B29F6569A8}|ComparingCharacterArrays\\ComparingCharacterArrays.csproj|solutionrelative:comparingcharacterarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\Merge\\Program.cs",
+              "RelativeDocumentMoniker": "Merge\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\Merge\\Program.cs",
+              "RelativeToolTip": "Merge\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:53:47.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\Merge\u041EfArray\\Program.cs",
+              "RelativeDocumentMoniker": "Merge\u041EfArray\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\Merge\u041EfArray\\Program.cs",
+              "RelativeToolTip": "Merge\u041EfArray\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:49:42.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\SearchingElement\\Program.cs",
+              "RelativeDocumentMoniker": "SearchingElement\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\SearchingElement\\Program.cs",
+              "RelativeToolTip": "SearchingElement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:41:33.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\Inserting\u0410n\u0415lementIntoASortedArray\\Program.cs",
+              "RelativeDocumentMoniker": "Inserting\u0410n\u0415lementIntoASortedArray\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\Inserting\u0410n\u0415lementIntoASortedArray\\Program.cs",
+              "RelativeToolTip": "Inserting\u0410n\u0415lementIntoASortedArray\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:57:07.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\ComparingCharacterArrays\\Program.cs",
+              "RelativeDocumentMoniker": "ComparingCharacterArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\ComparingCharacterArrays\\Program.cs",
+              "RelativeToolTip": "ComparingCharacterArrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:24:30.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

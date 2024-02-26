@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\SortAnArray\ComparingCharacterArrays\bin\Debug\net8.0\ComparingCharacterArrays.exe
+C:\Users\lenovo\Desktop\Siana\SortAnArray\ComparingCharacterArrays\bin\Debug\net8.0\ComparingCharacterArrays.deps.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\ComparingCharacterArrays\bin\Debug\net8.0\ComparingCharacterArrays.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\ComparingCharacterArrays\bin\Debug\net8.0\ComparingCharacterArrays.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\ComparingCharacterArrays\bin\Debug\net8.0\ComparingCharacterArrays.pdb
+C:\Users\lenovo\Desktop\Siana\SortAnArray\ComparingCharacterArrays\obj\Debug\net8.0\ComparingCharacterArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\SortAnArray\ComparingCharacterArrays\obj\Debug\net8.0\ComparingCharacterArrays.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\ComparingCharacterArrays\obj\Debug\net8.0\ComparingCharacterArrays.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\SortAnArray\ComparingCharacterArrays\obj\Debug\net8.0\ComparingCharacterArrays.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\ComparingCharacterArrays\obj\Debug\net8.0\ComparingCharacterArrays.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\ComparingCharacterArrays\obj\Debug\net8.0\refint\ComparingCharacterArrays.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\ComparingCharacterArrays\obj\Debug\net8.0\ComparingCharacterArrays.pdb
+C:\Users\lenovo\Desktop\Siana\SortAnArray\ComparingCharacterArrays\obj\Debug\net8.0\ComparingCharacterArrays.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\ComparingCharacterArrays\obj\Debug\net8.0\ref\ComparingCharacterArrays.dll

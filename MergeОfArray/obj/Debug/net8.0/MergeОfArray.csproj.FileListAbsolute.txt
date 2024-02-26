@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\SortAnArray\MergeОfArray\bin\Debug\net8.0\MergeОfArray.exe
+C:\Users\lenovo\Desktop\Siana\SortAnArray\MergeОfArray\bin\Debug\net8.0\MergeОfArray.deps.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\MergeОfArray\bin\Debug\net8.0\MergeОfArray.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\MergeОfArray\bin\Debug\net8.0\MergeОfArray.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\MergeОfArray\bin\Debug\net8.0\MergeОfArray.pdb
+C:\Users\lenovo\Desktop\Siana\SortAnArray\MergeОfArray\obj\Debug\net8.0\MergeОfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\SortAnArray\MergeОfArray\obj\Debug\net8.0\MergeОfArray.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\MergeОfArray\obj\Debug\net8.0\MergeОfArray.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\SortAnArray\MergeОfArray\obj\Debug\net8.0\MergeОfArray.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\MergeОfArray\obj\Debug\net8.0\MergeОfArray.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\MergeОfArray\obj\Debug\net8.0\refint\MergeОfArray.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\MergeОfArray\obj\Debug\net8.0\MergeОfArray.pdb
+C:\Users\lenovo\Desktop\Siana\SortAnArray\MergeОfArray\obj\Debug\net8.0\MergeОfArray.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\MergeОfArray\obj\Debug\net8.0\ref\MergeОfArray.dll

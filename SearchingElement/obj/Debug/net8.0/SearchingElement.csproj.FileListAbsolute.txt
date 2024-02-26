@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SearchingElement\bin\Debug\net8.0\SearchingElement.exe
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SearchingElement\bin\Debug\net8.0\SearchingElement.deps.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SearchingElement\bin\Debug\net8.0\SearchingElement.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SearchingElement\bin\Debug\net8.0\SearchingElement.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SearchingElement\bin\Debug\net8.0\SearchingElement.pdb
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SearchingElement\obj\Debug\net8.0\SearchingElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SearchingElement\obj\Debug\net8.0\SearchingElement.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SearchingElement\obj\Debug\net8.0\SearchingElement.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SearchingElement\obj\Debug\net8.0\SearchingElement.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SearchingElement\obj\Debug\net8.0\SearchingElement.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SearchingElement\obj\Debug\net8.0\refint\SearchingElement.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SearchingElement\obj\Debug\net8.0\SearchingElement.pdb
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SearchingElement\obj\Debug\net8.0\SearchingElement.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SearchingElement\obj\Debug\net8.0\ref\SearchingElement.dll

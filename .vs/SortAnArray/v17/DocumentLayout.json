@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{200EDE9D-E39A-4ABA-A6EE-2B80AFB7EFBF}|CountNumber\\CountNumber.csproj|c:\\users\\lenovo\\desktop\\siana\\sortanarray\\countnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200EDE9D-E39A-4ABA-A6EE-2B80AFB7EFBF}|CountNumber\\CountNumber.csproj|solutionrelative:countnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC98290A-1226-4D74-8CB8-247E7402D6CF}|NumbersSquare\\NumbersSquare.csproj|c:\\users\\lenovo\\desktop\\siana\\sortanarray\\numberssquare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC98290A-1226-4D74-8CB8-247E7402D6CF}|NumbersSquare\\NumbersSquare.csproj|solutionrelative:numberssquare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180F1EAB-19DC-439A-B193-35452593225C}|SortElement\\SortElement.csproj|c:\\users\\lenovo\\desktop\\siana\\sortanarray\\sortelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180F1EAB-19DC-439A-B193-35452593225C}|SortElement\\SortElement.csproj|solutionrelative:sortelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22AB25C-AC26-4301-88E6-01E0DD2CBA91}|ListInputOutput\\ListInputOutput.csproj|c:\\users\\lenovo\\desktop\\siana\\sortanarray\\listinputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22AB25C-AC26-4301-88E6-01E0DD2CBA91}|ListInputOutput\\ListInputOutput.csproj|solutionrelative:listinputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04987A43-C06A-47D8-A9D9-C96758EDFD78}|Merge\\Merge.csproj|c:\\users\\lenovo\\desktop\\siana\\sortanarray\\merge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04987A43-C06A-47D8-A9D9-C96758EDFD78}|Merge\\Merge.csproj|solutionrelative:merge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,6 +52,58 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\CountNumber\\Program.cs",
+              "RelativeDocumentMoniker": "CountNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\CountNumber\\Program.cs",
+              "RelativeToolTip": "CountNumber\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA1wAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:09:09.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\NumbersSquare\\Program.cs",
+              "RelativeDocumentMoniker": "NumbersSquare\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\NumbersSquare\\Program.cs",
+              "RelativeToolTip": "NumbersSquare\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:03:50.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\SortElement\\Program.cs",
+              "RelativeDocumentMoniker": "SortElement\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\SortElement\\Program.cs",
+              "RelativeToolTip": "SortElement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:56:06.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\ListInputOutput\\Program.cs",
+              "RelativeDocumentMoniker": "ListInputOutput\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\ListInputOutput\\Program.cs",
+              "RelativeToolTip": "ListInputOutput\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:51:28.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\Merge\\Program.cs",
               "RelativeDocumentMoniker": "Merge\\Program.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\Merge\\Program.cs",
@@ -47,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\Merge\u041EfArray\\Program.cs",
               "RelativeDocumentMoniker": "Merge\u041EfArray\\Program.cs",
@@ -55,12 +123,11 @@
               "RelativeToolTip": "Merge\u041EfArray\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAQwBIAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T14:49:42.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T14:49:42.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\SearchingElement\\Program.cs",
               "RelativeDocumentMoniker": "SearchingElement\\Program.cs",
@@ -68,12 +135,11 @@
               "RelativeToolTip": "SearchingElement\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T14:41:33.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T14:41:33.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\Inserting\u0410n\u0415lementIntoASortedArray\\Program.cs",
               "RelativeDocumentMoniker": "Inserting\u0410n\u0415lementIntoASortedArray\\Program.cs",
@@ -81,12 +147,11 @@
               "RelativeToolTip": "Inserting\u0410n\u0415lementIntoASortedArray\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T13:57:07.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T13:57:07.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\SortAnArray\\ComparingCharacterArrays\\Program.cs",
               "RelativeDocumentMoniker": "ComparingCharacterArrays\\Program.cs",
@@ -94,8 +159,7 @@
               "RelativeToolTip": "ComparingCharacterArrays\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T13:24:30.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T13:24:30.234Z"
             }
           ]
         }

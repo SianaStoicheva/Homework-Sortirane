@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Siana\SortAnArray\NumbersSquare\bin\Debug\net8.0\NumbersSquare.exe
+C:\Users\lenovo\Desktop\Siana\SortAnArray\NumbersSquare\bin\Debug\net8.0\NumbersSquare.deps.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\NumbersSquare\bin\Debug\net8.0\NumbersSquare.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\NumbersSquare\bin\Debug\net8.0\NumbersSquare.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\NumbersSquare\bin\Debug\net8.0\NumbersSquare.pdb
+C:\Users\lenovo\Desktop\Siana\SortAnArray\NumbersSquare\obj\Debug\net8.0\NumbersSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\SortAnArray\NumbersSquare\obj\Debug\net8.0\NumbersSquare.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\NumbersSquare\obj\Debug\net8.0\NumbersSquare.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\SortAnArray\NumbersSquare\obj\Debug\net8.0\NumbersSquare.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\NumbersSquare\obj\Debug\net8.0\NumbersSquare.sourcelink.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\NumbersSquare\obj\Debug\net8.0\NumbersSquare.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\NumbersSquare\obj\Debug\net8.0\refint\NumbersSquare.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\NumbersSquare\obj\Debug\net8.0\NumbersSquare.pdb
+C:\Users\lenovo\Desktop\Siana\SortAnArray\NumbersSquare\obj\Debug\net8.0\NumbersSquare.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\NumbersSquare\obj\Debug\net8.0\ref\NumbersSquare.dll

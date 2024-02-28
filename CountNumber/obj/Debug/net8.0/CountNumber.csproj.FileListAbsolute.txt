@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Siana\SortAnArray\CountNumber\obj\Debug\net8.0\CountNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\SortAnArray\CountNumber\obj\Debug\net8.0\CountNumber.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\CountNumber\obj\Debug\net8.0\CountNumber.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\SortAnArray\CountNumber\obj\Debug\net8.0\CountNumber.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\CountNumber\obj\Debug\net8.0\CountNumber.sourcelink.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\CountNumber\bin\Debug\net8.0\CountNumber.exe
+C:\Users\lenovo\Desktop\Siana\SortAnArray\CountNumber\bin\Debug\net8.0\CountNumber.deps.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\CountNumber\bin\Debug\net8.0\CountNumber.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\CountNumber\bin\Debug\net8.0\CountNumber.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\CountNumber\bin\Debug\net8.0\CountNumber.pdb
+C:\Users\lenovo\Desktop\Siana\SortAnArray\CountNumber\obj\Debug\net8.0\CountNumber.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\CountNumber\obj\Debug\net8.0\refint\CountNumber.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\CountNumber\obj\Debug\net8.0\CountNumber.pdb
+C:\Users\lenovo\Desktop\Siana\SortAnArray\CountNumber\obj\Debug\net8.0\CountNumber.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\CountNumber\obj\Debug\net8.0\ref\CountNumber.dll

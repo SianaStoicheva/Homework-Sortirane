@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsertingАnЕlementIntoASortedArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63955dd5c02f7aa6649e53324b5c92c445b9c67f")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsertingАnЕlementIntoASortedArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsertingАnЕlementIntoASortedArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

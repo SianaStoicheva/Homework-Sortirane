@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SortElement\bin\Debug\net8.0\SortElement.exe
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SortElement\bin\Debug\net8.0\SortElement.deps.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SortElement\bin\Debug\net8.0\SortElement.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SortElement\bin\Debug\net8.0\SortElement.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SortElement\bin\Debug\net8.0\SortElement.pdb
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SortElement\obj\Debug\net8.0\SortElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SortElement\obj\Debug\net8.0\SortElement.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SortElement\obj\Debug\net8.0\SortElement.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SortElement\obj\Debug\net8.0\SortElement.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SortElement\obj\Debug\net8.0\SortElement.sourcelink.json
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SortElement\obj\Debug\net8.0\SortElement.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SortElement\obj\Debug\net8.0\refint\SortElement.dll
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SortElement\obj\Debug\net8.0\SortElement.pdb
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SortElement\obj\Debug\net8.0\SortElement.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\SortAnArray\SortElement\obj\Debug\net8.0\ref\SortElement.dll
